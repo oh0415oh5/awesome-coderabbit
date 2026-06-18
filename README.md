@@ -83,11 +83,34 @@ Find more examples in the [`configs/`](configs/) directory, organized by languag
 
 ```
 configs/
-├── javascript/   # JavaScript project configurations
-├── typescript/   # TypeScript project configurations
-├── python/       # Python project configurations
-├── go/          # Go project configurations
-└── multi-language/ # Full-stack project configurations
+├── cpp/             # C++ project configurations
+├── custom-recipes/  # Custom review recipe configurations
+├── default/         # Default configurations
+├── django/          # Django project configurations
+├── docs/            # Documentation review configurations
+├── flutter/         # Flutter/Dart project configurations
+├── fullstack/       # Full-stack project configurations
+├── github/          # GitHub-specific configurations
+├── go/              # Go project configurations
+├── haskell/         # Haskell project configurations
+├── java/            # Java project configurations
+├── javascript/      # JavaScript project configurations
+├── kotlin/          # Kotlin project configurations
+├── monorepo/        # Monorepo project configurations
+├── nestjs/          # NestJS project configurations
+├── nodejs/          # Node.js project configurations
+├── nuxt/            # Nuxt/Vue project configurations
+├── pre-mergechecks/ # Pre-merge check configurations
+├── python/          # Python project configurations
+├── react/           # React project configurations
+├── rust/            # Rust project configurations
+├── solidity/        # Solidity/blockchain project configurations
+├── starter/         # Starter/minimal configurations
+├── testing/         # Testing-focused configurations
+├── typescript/      # TypeScript project configurations
+├── unity/           # Unity project configurations
+├── web-frontend/    # Web frontend project configurations
+└── wordpress/       # WordPress project configurations
 ```
 
 
